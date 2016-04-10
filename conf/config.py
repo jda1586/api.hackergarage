@@ -2,7 +2,7 @@
 # coding=utf-8
 
 class Config(object):
-    DEBUG = False
+    DEBUG = True
     HOST = '127.0.0.1'
     PORT = 5000
     SECRET_KEY = '^*d^032DZQX48221d3ZA'
